@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeantsx
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m always studying JavaScript, ReactJS, TypeScript, NodeJS
 - 📫 How to reach me ...
 
 <!---
