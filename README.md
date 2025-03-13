@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeantsx
+- 👋 Hi, I’m @Jeancarlos-dev
 - 👀 I’m interested in Frontend development
 - 🌱 I’m always studying JavaScript, ReactJS, TypeScript, NodeJS
 - 📫 How to reach me ...
